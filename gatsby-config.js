@@ -18,7 +18,7 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: `@lekoarts/gatsby-theme-minimal-blog`,
+      resolve: `@lekoarts/gatsby-theme-cara`,
       options: {},
     },
     {
